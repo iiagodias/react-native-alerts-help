@@ -3,7 +3,6 @@
 > Atualmente, o desempenho não é testado no IOS.
 
 <br />
-### react-native-alerts-help
 
 Minha primeira lib para react-native!
 
@@ -61,5 +60,5 @@ __event:__
 
 | name               | type     | description                              |
 | :----------------- | :------- |  :-------------------------------------- |
-| OnClose            | function | Ao fechar a alerta.                      |
-| OnPress            | function | Quando clica no botão.                   |
+| onClose            | function | Ao fechar a alerta.                      |
+| onPress            | function | Quando clica no botão.                   |
