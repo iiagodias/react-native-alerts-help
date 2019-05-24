@@ -3,7 +3,7 @@
 > Atualmente, o desempenho não é testado no IOS.
 
 <br />
-## react-native-alerts-help
+### react-native-alerts-help
 
 Minha primeira lib para react-native!
 
