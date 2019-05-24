@@ -1,6 +1,6 @@
 {
   "name": "react-native-alerts-help",
-  "version": "2.0.13",
+  "version": "1.0.0",
   "description": "Complete set of personalized alerts for react native.",
   "main": "index.js",
   "dependencies": {
