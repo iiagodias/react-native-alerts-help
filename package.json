@@ -1,0 +1,25 @@
+{
+  "name": "react-native-alerts-help",
+  "version": "2.0.13",
+  "description": "Complete set of personalized alerts for react native.",
+  "main": "index.js",
+  "dependencies": {
+    "react-native-vector-icons": "^6.4.2"
+  },
+  "author": {
+    "name": "Iago Dias",
+    "email": "iago.unama@hotmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "alerts react native",
+    "alerts",
+    "alerts personalized",
+    "modal",
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iiagodias/react-native-alerts-help"
+  }
+}
